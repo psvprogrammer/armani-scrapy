@@ -1,0 +1,6 @@
+# PyCharm ide files
+.idea/
+
+# Jupyter files and folders
+.ipython
+.ipynb_checkpoints
